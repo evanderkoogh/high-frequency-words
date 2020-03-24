@@ -10,7 +10,20 @@ const words = [
   "we",
   "in",
   "he",
-  "they"
+  "they",
+  "went",
+  "of",
+  "said",
+  "on",
+  "so",
+  "then",
+  "she",
+  "is",
+  "had",
+  "there",
+  "you",
+  "that",
+  "but"
 ];
 
 export { words };
